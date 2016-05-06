@@ -10,3 +10,12 @@ Requires [NodeJS](https://nodejs.org/en/download/)
 npm install
 
 ```
+
+Run 
+
+```bash
+
+npm start
+
+```
+
