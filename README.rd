@@ -6,8 +6,7 @@ Angular 2 Started application
 Requires [NodeJS](https://nodejs.org/en/download/)
 
 ```bash
+
 npm install
 
 ```
-
-
